@@ -1,0 +1,8 @@
+This is a configuration file for Script. Please change the configuration according to your requirement.
+##Note that the script will not run if invalid parameters are entered.##
+©2020 Nicholas Chin (Bits-AI). All Rights Reserved.
+
+***Please do not modify these files without consulting the author, as you might potentially break the product!***
+
+dt_format=%d/%m/%Y -- This line is not used
+file_prefix=Processed
